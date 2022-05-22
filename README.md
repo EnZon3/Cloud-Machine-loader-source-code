@@ -1,2 +1,4 @@
 # Cloud-Machine-loader-source-code
-Source code to loader files for the game Cloud Machine, this is not my code, it is by Curriculum Associates for the app I-Ready
+Source code to loader files for the game Cloud Machine, extracted directly from I-Ready.
+
+# THIS IS NOT MY CODE! It is by Curriculum Associates for the app I-Ready
